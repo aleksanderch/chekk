@@ -1,0 +1,42 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.input-group{
+	margin-bottom: 20px;
+}
+
+body{
+  width: 100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-image: url('https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-creative/master/img/header.jpg');
+  text-align: center;
+  color: white;
+}
+
+
+.header{
+	border-bottom: 1px solid white; 
+}
+
+.btn{
+  color: #222222;
+  background-color: white;
+  border-color: white;
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;
+  border-radius: 25px;
+}
+
+a{
+	color: white;
+	transition: all 0.35s;
+	text-decoration: none;
+}
+
